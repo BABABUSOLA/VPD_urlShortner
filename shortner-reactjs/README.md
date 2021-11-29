@@ -30,7 +30,7 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how to install and set up the app. 
 
-1. Get the api url for the backend [https://twittee-clone.herokuapp.com/api](https://twittee-clone.herokuapp.com/api)
+1. Get the api url for the backend [https://urlshn.herokuapp.com](https://urlshn.herokuapp.com)
 2. Clone the repo
    ```sh
    git clone https://github.com/BABABUSOLA/VPD_urlShortner
