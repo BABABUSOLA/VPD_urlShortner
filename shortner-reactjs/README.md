@@ -33,15 +33,11 @@ _Below is an example of how to install and set up the app.
 1. Get the api url for the backend [https://twittee-clone.herokuapp.com/api](https://twittee-clone.herokuapp.com/api)
 2. Clone the repo
    ```sh
-   git clone https://github.com/BABABUSOLA/twittee-reactjs
+   git clone https://github.com/BABABUSOLA/VPD_urlShortner
    ```
 3. Install NPM packages
    ```sh
    npm install
-   ```
-4. Enter your API in `.env`
-   ```js
-   API_KEY=ENTER YOUR API
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -50,7 +46,7 @@ _Below is an example of how to install and set up the app.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/BABABUSOLA/twittee-reactjs](https://github.com/BABABUSOLA/twittee-reactjs)
+Project Link: [https://github.com/BABABUSOLA/VPD_urlShortner](https://github.com/BABABUSOLA/VPD_urlShortner)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
